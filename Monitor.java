@@ -1,4 +1,3 @@
-package priceMonitor;
 import org.jsoup.*;
 import org.jsoup.nodes.*;
 import java.io.*;
