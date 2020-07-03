@@ -1,6 +1,10 @@
 # Amazon price tracking windows application
 a GUI version of my price tracking program
 
+![Sample run - tracking](sampleImage.PNG)
+
+![Sample run - email sent](sampleImage_2.PNG)
+
 ## Purpose
 this application continously monitors an amazon product and sends an email to the user if the item hits their desired price. Also shows the user real-time updates
 
