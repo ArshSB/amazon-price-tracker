@@ -106,7 +106,7 @@ public class GUI {
 		frame.getContentPane().add(lblLinkError);
 		
 		lblIcon = new JLabel("");
-		ImageIcon img = new ImageIcon(getClass().getResource("/icon.jpg"));
+		ImageIcon img = new ImageIcon(getClass().getResource("/images/icon.jpg"));
 		lblIcon.setIcon(new ImageIcon(img.getImage().getScaledInstance(110, 75, Image.SCALE_SMOOTH))); //resize picture to fit frame nicely
 		frame.setIconImage(img.getImage());
 		lblIcon.setBounds(0, 11, 110, 75);
